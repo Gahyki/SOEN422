@@ -1,0 +1,3 @@
+Test Queue C++ class
+The queue has the elements: [ 5 10 15 20 ]	The queue has the elements: [ 15 20 ]	The queue is not empty.	The queue is empty.	
+The queue has the elements: [ 5 10 15 20 ]	The queue has the elements: [ 15 20 ]	The queue is not empty.	The queue is empty.	

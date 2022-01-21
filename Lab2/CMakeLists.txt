@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.17)
+set(CMAKE_C_COMPILER_WORKS 1)
+set(CMAKE_CXX_COMPILER_WORKS 1)
+project("Lab2")
+#add_executable("Task5" Task5.c Task5Test.c)
+add_executable("Task6" Task6Test.cpp Task5.c)
+#add_executable("Task7" Task7.cpp Task7Test.cpp)

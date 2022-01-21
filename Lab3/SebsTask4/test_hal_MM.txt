@@ -1,0 +1,74 @@
+byteMap:16 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+106->128[2]@0000
+byteMap:-2 0 14 0 0 0 0 0 0 0 0 0 0 0 0 0 
+main:FreeBlocks[16]
+---
+143->192[3]@0080
+byteMap:-2 0 -3 0 0 13 0 0 0 0 0 0 0 0 0 0 
+main:FreeBlocks[13]
+---
+034->064[1]@0140
+byteMap:-2 0 -3 0 0 -1 12 0 0 0 0 0 0 0 0 0 
+main:FreeBlocks[12]
+---
+213->256[4]@0180
+byteMap:-2 0 -3 0 0 -1 -4 0 0 0 8 0 0 0 0 0 
+main:FreeBlocks[8]
+---
+042->064[1]@0280
+byteMap:-2 0 -3 0 0 -1 -4 0 0 0 -1 7 0 0 0 0 
+main:FreeBlocks[7]
+---
+215->256[4]@02c0
+byteMap:-2 0 -3 0 0 -1 -4 0 0 0 -1 -4 0 0 0 3 
+main:FreeBlocks[3]
+---
+015->064[1]@03c0
+byteMap:-2 0 -3 0 0 -1 -4 0 0 0 -1 -4 0 0 0 -1 
+main:FreeBlocks[0]
+---
+main:** Start freeing segments and defragmentation
+
+main:** Free segment #0
+byteMap:2 0 -3 0 0 -1 -4 0 0 0 -1 -4 0 0 0 -1 
+main: Before defrag - FreeBlocks[2]
+byteMap:2 0 -3 0 0 -1 -4 0 0 0 -1 -4 0 0 0 -1 
+main: After  defrag - FreeBlocks[2]
+
+main:** Free segment #1
+byteMap:2 0 3 0 0 -1 -4 0 0 0 -1 -4 0 0 0 -1 
+main: Before defrag - FreeBlocks[5]
+byteMap:5 0 0 0 0 -1 -4 0 0 0 -1 -4 0 0 0 -1 
+main: After  defrag - FreeBlocks[5]
+
+main:** Free segment #2
+byteMap:5 0 0 0 0 1 -4 0 0 0 -1 -4 0 0 0 -1 
+main: Before defrag - FreeBlocks[6]
+byteMap:6 0 0 0 0 0 -4 0 0 0 -1 -4 0 0 0 -1 
+main: After  defrag - FreeBlocks[6]
+
+main:** Free segment #3
+byteMap:6 0 0 0 0 0 4 0 0 0 -1 -4 0 0 0 -1 
+main: Before defrag - FreeBlocks[10]
+byteMap:10 0 0 0 0 0 0 0 0 0 -1 -4 0 0 0 -1 
+main: After  defrag - FreeBlocks[10]
+
+main:** Free segment #4
+byteMap:10 0 0 0 0 0 0 0 0 0 1 -4 0 0 0 -1 
+main: Before defrag - FreeBlocks[11]
+byteMap:11 0 0 0 0 0 0 0 0 0 0 -4 0 0 0 -1 
+main: After  defrag - FreeBlocks[11]
+
+main:** Free segment #5
+byteMap:11 0 0 0 0 0 0 0 0 0 0 4 0 0 0 -1 
+main: Before defrag - FreeBlocks[15]
+byteMap:15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 
+main: After  defrag - FreeBlocks[15]
+
+main:** Free segment #6
+byteMap:15 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+main: Before defrag - FreeBlocks[18]
+byteMap:18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+main: After  defrag - FreeBlocks[18]
+
+main: Exit - FreeBlocks[18]

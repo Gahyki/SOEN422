@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsl_mm.h": "c",
+        "hal_mm.h": "c",
+        "bargraphhal.h": "c",
+        "bargraphbsl.h": "c"
+    }
+}

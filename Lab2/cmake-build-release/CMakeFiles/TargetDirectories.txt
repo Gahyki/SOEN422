@@ -1,0 +1,5 @@
+C:/Users/Jason/Documents/2021/Lab2/cmake-build-release/CMakeFiles/Task5.dir
+C:/Users/Jason/Documents/2021/Lab2/cmake-build-release/CMakeFiles/Task6.dir
+C:/Users/Jason/Documents/2021/Lab2/cmake-build-release/CMakeFiles/Task7.dir
+C:/Users/Jason/Documents/2021/Lab2/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Jason/Documents/2021/Lab2/cmake-build-release/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "task2.h": "c",
+        "bargraph.h": "c",
+        "arduino.h": "c",
+        "hardwareserial.h": "c",
+        "softwareserial.h": "c",
+        "walkinghal.h": "c",
+        "bargraphhal.h": "c",
+        "stdint.h": "c",
+        "walkingbargraphhal.h": "c",
+        "walkingbargraphbsl.h": "c",
+        "bsl_usart.h": "c",
+        "stdbool.h": "c",
+        "io.h": "c"
+    }
+}
